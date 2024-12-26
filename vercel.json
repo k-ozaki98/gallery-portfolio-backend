@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "framework": null,
     "functions": {
         "api/*.php": {
             "runtime": "vercel-php@0.6.0"
@@ -12,13 +13,9 @@
         }
     ],
     "env": {
-        "APP_NAME": "Laravel",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_KEY": "base64:GQLX1AimDWGg3S3rhI54FwJpVaiHocaXfLTY7Pw1iHo=",
-        "APP_URL": "https://gallery-portfolio-backend-jhd9vh3sn-kokis-projects-eb368bc8.vercel.app",
-        "CACHE_DRIVER": "array",
-        "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "APP_URL": "https://gallery-portfolio-backend-jhd9vh3sn-kokis-projects-eb368bc8.vercel.app"
     }
 }
