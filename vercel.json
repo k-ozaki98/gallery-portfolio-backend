@@ -15,7 +15,7 @@
         "APP_NAME": "Laravel",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_KEY": "base64:265p6kGseF3KJ/08jWZgGR3jR7gFA+cqLJ+PWjrNTUQ=",
+        "APP_KEY": "base64:GQLX1AimDWGg3S3rhI54FwJpVaiHocaXfLTY7Pw1iHo=",
         "APP_URL": "https://gallery-portfolio-backend.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
